@@ -63,7 +63,7 @@ button {
   font-size: 100%;
 
   transition: .25s ease;
-
+ 
   &:hover {
     box-shadow: 0 3px 3px linear-gragient(#222, #444);
     transform: scale(1.1, 1.1);
